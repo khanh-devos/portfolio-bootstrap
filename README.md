@@ -116,11 +116,11 @@ You can deploy this project using a Host service
 - LinkedIn: [Khanh RoR](https://www.linkedin.com/in/khanh-than-trong-3b4344246/)
 
 # 👤 Author2
-👤 **Adesina Abiodun Paul**
+👤 **Kgomotso Troos Nacane**
 
-- GitHub: https://github.com/adesina-abiodun
-- LinkedIn: https://www.linkedin.com/in/adesina-abiodun-paul-b513bb143
-- Twitter: https://twitter.com/adesinaabiodunp
+- GitHub: https://github.com/Kgomotso196
+- LinkedIn: https://www.linkedin.com/in/kgomotso-nacane-4909ba259/
+- Twitter: https://twitter.com/t_r_o_o_s/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
